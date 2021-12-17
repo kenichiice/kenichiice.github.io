@@ -6,7 +6,7 @@ permalink: /work-history/
 
 | 西暦 | 開発したもの |プログラミング言語 |プラットフォームなど |
 | --- | --- | --- | --- |
-| 2021 | 電波伝搬シミュレータ | C++17 | Windows 10, Docker |
+| 2021 | 電波伝搬シミュレータ | C++17 | Windows 10, Docker, OpenMP, Shapefile C Library |
 | 2021 | 設備管理アプリケーション | TypeScript 4.1, Go 1.16 | Angular 11, ExcelJS |
 | 2020 | Web APIクライアント | C# 7, Go 1.11 | Windows 10 |
 | 2020 | 無線ネットワークシミュレータ | C++14 | CentOS 7, Windows 10 |
