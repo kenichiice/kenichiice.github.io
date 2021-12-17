@@ -4,11 +4,11 @@ title: 仕事の履歴
 permalink: /work-history/
 ---
 
-| 西暦 | 開発したもの |プログラミング言語 |プラットフォームなど |
+| 西暦 | 開発したもの |プログラミング言語 |プラットフォーム、ライブラリ |
 | --- | --- | --- | --- |
 | 2021 | 電波伝搬シミュレータ | C++17, Go 1.17 | Windows 10, Docker, OpenMP, Shapefile C Library |
 | 2021 | 設備管理アプリケーション | TypeScript 4.1, Go 1.16 | Angular 11, ExcelJS |
-| 2020 | Web APIクライアント | C# 7, Go 1.11 | Windows 10 |
+| 2020 | Web APIクライアント | C# 7, Go 1.11 | Windows 10, CsvHelper |
 | 2020 | 無線ネットワークシミュレータ | C++14 | CentOS 7, Windows 10 |
 | 2020 | 地図表示アプリケーション | C# 7 | Windows 10, WPF |
 | 2020 | 地図表示アプリケーション | C# 6 | Windows 10, Windows Forms |
