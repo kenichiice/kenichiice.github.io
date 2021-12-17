@@ -10,8 +10,8 @@ permalink: /work-history/
 | 2021 | 設備管理アプリケーション | TypeScript 4.1, Go 1.16 | Angular 11, ExcelJS |
 | 2020 | Web APIクライアント | C# 7, Go 1.11 | Windows 10, CsvHelper |
 | 2020 | 無線ネットワークシミュレータ | C++14 | CentOS 7, Windows 10 |
-| 2020 | 地図表示アプリケーション | C# 7 | Windows 10, WPF |
-| 2020 | 地図表示アプリケーション | C# 6 | Windows 10, Windows Forms |
+| 2020 | 地図表示アプリケーション | C# 7 | Windows 10, WPF, SQLite |
+| 2020 | 地図表示アプリケーション | C# 6 | Windows 10, Windows Forms, SQLite |
 | 2019 | 無線ネットワークシミュレータ | C++14 | CentOS 7, Windows 10 |
 | 2019 | 機器データ管理/監視システム | C# 7, JavaScript | Windows 10, IE11 |
 | 2019 | アプリケーションの移行 | C++03 | CentOS 7 |
