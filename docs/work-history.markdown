@@ -6,6 +6,7 @@ permalink: /work-history/
 
 | 西暦 | 開発したもの |プログラミング言語 |プラットフォーム、ライブラリ |
 | --- | --- | --- | --- |
+| 2022 | 会計アプリケーション | C++14 | Windows 10, SQL Server 2017 |
 | 2021 | 電波伝搬シミュレータ | C++17, Go 1.17 | Windows 10, Docker, OpenMP, Shapefile C Library |
 | 2021 | 設備管理アプリケーション | TypeScript 4.1, Go 1.16 | Angular 11, ExcelJS |
 | 2020 | Web APIクライアント | C# 7, Go 1.11 | Windows 10, CsvHelper |
