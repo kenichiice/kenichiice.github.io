@@ -6,6 +6,7 @@ permalink: /work-history/
 
 | 西暦 | 開発したもの |プログラミング言語 |プラットフォーム、ライブラリ |
 | --- | --- | --- | --- |
+| 2023 | 電波伝搬シミュレータ | C++20 | Windows 10, OpenMP, Shapefile C Library |
 | 2023 | 電波模擬システム | C++17, Python 3.10 | Ubuntu 22.04, ROS2 Humble, MariaDB, OpenMP |
 | 2022 | 仮想環境管理サービス | Python 3.11 | Ubuntu 18.04, FastAPI 0.85, Prometheus, MongoDB, Kubernetes |
 | 2022 | 会計アプリケーション | C++14 | Windows 10, SQL Server 2017 |
