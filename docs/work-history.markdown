@@ -6,6 +6,7 @@ permalink: /work-history/
 
 | 西暦 | 開発したもの |プログラミング言語 |プラットフォーム、ライブラリ |
 | --- | --- | --- | --- |
+| 2023 | 伝搬路計算アプリケーション | C++20 | Windows 10, JSON for Modern C++, pybind11 |
 | 2023 | 見通し判定ライブラリ | C++17, C# 7, Python 3.11 | Debian 11, Windows 10, OpenMP, pybind11, assimp, Shapefile C Library, NanoRT |
 | 2023 | 電波伝搬シミュレータ | C++20 | Windows 10, OpenMP, Shapefile C Library |
 | 2023 | 電波模擬システム | C++17, Python 3.10 | Ubuntu 22.04, ROS2 Humble, MariaDB, OpenMP |
