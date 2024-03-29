@@ -6,6 +6,7 @@ permalink: /work-history/
 
 | 西暦 | 開発したもの |プログラミング言語 |プラットフォーム、ライブラリ |
 | --- | --- | --- | --- |
+| 2024 | 安否確認アプリ | Java 7 | Android |
 | 2024 | 電波模擬システム | C++17 | Ubuntu 22.04, ROS2 Humble, MariaDB, OpenMP |
 | 2023 | 測距アプリケーション | C++14 | Ubuntu, GNSS-SDR |
 | 2023 | 伝搬路計算アプリケーション | C++20 | Windows 10, JSON for Modern C++, pybind11 |
