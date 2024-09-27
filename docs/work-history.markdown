@@ -7,7 +7,7 @@ permalink: /work-history/
 | 西暦 | 開発したもの |プログラミング言語 |プラットフォーム、ライブラリ |
 | --- | --- | --- | --- |
 | 2024 | 伝搬路計算アプリケーション | C++20 | Windows 11, pybind11 |
-| 2024 | 伝搬路計算ライブラリ | C++17, Python 3.11 | Windows 11, pybind11, Shapefile C Library |
+| 2024 | 伝搬路計算ライブラリ | C++17, Python 3.11 | Windows 11, pybind11, assimp, Shapefile C Library, Sionna |
 | 2024 | 通信監視アプリケーション | C++17 | Rocky Linux 9, pthread |
 | 2024 | 安否確認アプリ | Java 7 | Android |
 | 2024 | 電波模擬システム | C++17 | Ubuntu 22.04, ROS2 Humble, MariaDB, OpenMP |
