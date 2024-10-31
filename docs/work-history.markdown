@@ -6,6 +6,7 @@ permalink: /work-history/
 
 | 西暦 | 開発したもの |プログラミング言語 |プラットフォーム、ライブラリ |
 | --- | --- | --- | --- |
+| 2024 | 無線機器監視システム | Python 3.12, Typescript 5.6 | Ubuntu 22.04, FastAPI 0.115, SQLModel 0.0.22, Nuxt 3.13, Vuetify 3.7 |
 | 2024 | 伝搬路計算アプリケーション | C++20 | Windows 11, pybind11 |
 | 2024 | 伝搬路計算ライブラリ | C++17, Python 3.11 | Windows 11, pybind11, assimp, Shapefile C Library, Sionna |
 | 2024 | 通信監視アプリケーション | C++17 | Rocky Linux 9, pthread |
