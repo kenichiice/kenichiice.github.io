@@ -6,8 +6,9 @@ permalink: /work-history/
 
 | 西暦 | 開発したもの |プログラミング言語 |プラットフォーム、ライブラリ |
 | --- | --- | --- | --- |
+| 2025 | 衛星シミュレーション管理サービス | Python 3.11 | FastAPI, PostgreSQL 18, SQLAlchemy 2.0 |
 | 2025 | 伝搬路計算アプリケーション | C++20 | Windows 11, pybind11 |
-| 2025 | 5Gシミュレーター | C++20 | Ubuntu 22.04, Docker |
+| 2025 | 5Gシミュレーター | C++20 | Ubuntu 22.04, Docker, rapidyaml 0.10 |
 | 2025 | 光ネットワーク管理サービス | Python 3.12 | Ubuntu 24.04, PostgreSQL 17, Sysrepo 2.11, FastAPI 0.115, SQLAlchemy 2.0 |
 | 2025 | 伝搬路計算ライブラリ | C++17, Python 3.12 | Windows 11, pybind11 |
 | 2025 | 電波模擬システム | C++17 | Ubuntu 22.04, ROS2 Humble, yaml-cpp |
