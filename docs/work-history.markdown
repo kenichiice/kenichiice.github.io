@@ -6,6 +6,8 @@ permalink: /work-history/
 
 | 西暦 | 開発したもの |プログラミング言語 |プラットフォーム、ライブラリ |
 | --- | --- | --- | --- |
+| 2026 | 5Gシミュレーター | C++20 | Ubuntu 22.04, Docker |
+| 2026 | 光ネットワーク管理サービス | Python 3.12 | Ubuntu 24.04, PostgreSQL 17, FastAPI 0.115, SQLAlchemy 2.0 |
 | 2025 | 無線機器監視システム | Python 3.12, TypeScript 5.6 | Docker, SQLite 3, InfluxDB 2.7, FastAPI 0.115, SQLModel 0.0.22, Nuxt 3.13, Vuetify 3.11 |
 | 2025 | 衛星シミュレーション管理サービス | Python 3.11 | FastAPI, PostgreSQL 18, SQLAlchemy 2.0 |
 | 2025 | 伝搬路計算アプリケーション | C++20 | Windows 11, pybind11 |
